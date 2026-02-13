@@ -1,2 +1,2 @@
 icat:
-	gcc icat.c -o icat
+	gcc icat.c -o icat -Wall -Wextra -Wpedantic
